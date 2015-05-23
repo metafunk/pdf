@@ -1,0 +1,15 @@
+{
+    "name": "metafunk/pdf",
+    "autoload": {
+        "psr-0": {
+
+        }
+    },
+    "authors": [
+        {
+            "name": "Tom Sullivan",
+            "email": "metafunk@gmail.com"
+        }
+    ],
+    "require": {}
+}
